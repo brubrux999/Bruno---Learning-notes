@@ -23,6 +23,7 @@ This repository collects everything I am learning about programming, building up
 
 ## Repository Structure
 
+```text
 Bruno - Learning notes/
 │
 ├── Fortran/
@@ -40,3 +41,4 @@ Bruno - Learning notes/
 ├── C++/
 |
 └── README.md
+```
